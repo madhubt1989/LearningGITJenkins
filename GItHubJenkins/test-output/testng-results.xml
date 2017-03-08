@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11981" started-at="2017-03-07T06:53:06Z" finished-at="2017-03-07T06:53:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11981" started-at="2017-03-07T06:53:06Z" finished-at="2017-03-07T06:53:18Z">
+      <class name="Google">
+        <test-method status="PASS" signature="testMethod()[pri:0, instance:Google@675d3402]" name="testMethod" duration-ms="11955" started-at="2017-03-07T12:23:06Z" finished-at="2017-03-07T12:23:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+      </class> <!-- Google -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
