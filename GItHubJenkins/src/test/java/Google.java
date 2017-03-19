@@ -9,7 +9,9 @@ public class Google {
 		WebDriver driver = new FirefoxDriver();
 
 		driver.get("https://www.avis.com");
+		driver.manage().window().maximize();
 		System.out.println(driver.getTitle());
+	
 		driver.quit();
 
 	}
